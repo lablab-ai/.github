@@ -5,11 +5,20 @@
 <p align="center">
   <em>🤖 Where state-of-art in Artificial intelligence meet talent. 🤖 </em>
 </p>
-<p align="center">
-    
-<img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English">
 
-</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/company/lablab-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@lablab10">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/lablabai">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</br>
+
 
 <p align="center">
 <a href="https://lablab.ai/event">🔗 Hackathons</a>
@@ -21,7 +30,6 @@
 <a href="https://discord.gg/XnxrJ8ytRs">📢 Discord</a>
 </p>
 
----
 
 <h2 align="center">
 💝 Support the Advancement of Artificial Inteligence !! 💝
