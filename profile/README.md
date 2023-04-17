@@ -47,5 +47,12 @@ Our goal is to inspire and motivate talented individuals to push the boundaries 
 <a href="https://github.com/sponsors/lablab-ai">👉 Click here</a> to support the project 
 </p>
 
+---
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CSJusywcdlA" target="_blank">
+ <img src="http://img.youtube.com/vi/CSJusywcdlA/mqdefault.jpg" alt="Watch the video" width="300" height="auto" border="10" />
+</a>
+</p>
+
 
 
